@@ -1,0 +1,6 @@
+{
+  "name": "Waymark CAD",
+  "description": "Multi-modal mileage, bicycle, rail, ferry, and aviation tracker with Norfolk Fire CAD console, off-device cloud timeline, Street View timelapse, Transport Command Costs, GA/Gliding logbook printing, and AI audio recaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
